@@ -19,5 +19,7 @@ namespace CoderF.DAL
         public int Sex { get; set; }
 
         public int CityCode { get; set; }
+
+        public int HobbyCode { get; set; }
     }
 }

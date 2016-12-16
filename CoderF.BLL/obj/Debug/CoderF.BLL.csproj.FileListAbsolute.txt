@@ -1,0 +1,4 @@
+F:\HMJ\CoderFamily\CoderF.BLL\bin\Debug\CoderF.BLL.dll
+F:\HMJ\CoderFamily\CoderF.BLL\bin\Debug\CoderF.BLL.pdb
+F:\HMJ\CoderFamily\CoderF.BLL\obj\Debug\CoderF.BLL.dll
+F:\HMJ\CoderFamily\CoderF.BLL\obj\Debug\CoderF.BLL.pdb

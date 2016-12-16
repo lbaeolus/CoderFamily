@@ -1,0 +1,9 @@
+F:\HMJ\CoderFamily\CoderFUnitTest\bin\Debug\CoderFUnitTest.dll
+F:\HMJ\CoderFamily\CoderFUnitTest\bin\Debug\CoderFUnitTest.pdb
+F:\HMJ\CoderFamily\CoderFUnitTest\bin\Debug\CoderF.BLL.dll
+F:\HMJ\CoderFamily\CoderFUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\HMJ\CoderFamily\CoderFUnitTest\bin\Debug\CoderF.BLL.pdb
+F:\HMJ\CoderFamily\CoderFUnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\HMJ\CoderFamily\CoderFUnitTest\obj\Debug\CoderFUnitTest.csprojResolveAssemblyReference.cache
+F:\HMJ\CoderFamily\CoderFUnitTest\obj\Debug\CoderFUnitTest.dll
+F:\HMJ\CoderFamily\CoderFUnitTest\obj\Debug\CoderFUnitTest.pdb
